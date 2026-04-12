@@ -1,2 +1,2 @@
 # My Portfolio
-#Hi Myself Jithu Kennedy
+Hi Myself Jithu Kennedy
