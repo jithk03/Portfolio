@@ -1,7 +1,9 @@
 # My Portfolio
 Jithu Kennedy
 🎓 Master’s Student: Socio-Technical Systems (Sem. 2)
+<br>
 🛠️ Currently: Exploring Digital Design & Fabrication
+<br>
 📍 University of Oldenburg
 
 This portfolio is a raw look at my fabrication projects. I share the wins, the losses, and the technical iterations that happen in between. Join me as I build, break, and learn.
