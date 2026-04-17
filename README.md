@@ -1,5 +1,5 @@
 # My Portfolio
-Jithu Kennedy
+Hi Iam Jithu Kennedy
 🎓 Master’s Student: Socio-Technical Systems (Sem. 2)
 <br>
 🛠️ Currently: Exploring Digital Design & Fabrication
