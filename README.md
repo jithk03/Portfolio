@@ -44,7 +44,9 @@ We built a series circuit with Vcc = 5V, a current-limiting resistor R1, and a g
 **Observations:** The voltage across the LED (V_LED) stayed roughly constant regardless of R1 — the LED maintains its forward voltage (~2V). As R1 increased, more voltage dropped across the resistor and less current flowed, making the LED visibly dimmer. Changing R1 is an effective way to control LED brightness and limit current.
 
 **Images**
-![image alt](https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Taske%201.1.jpeg?raw=true =250*250)
+
+<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Taske%201.1.jpeg?raw=true" width="350" height="350">
+
 
 ---
 
