@@ -55,9 +55,15 @@ We built a series circuit with Vcc = 5V, a current-limiting resistor R1, and a g
 
 We added a 2-position switch (S1) in series with the LED. When the switch was closed, the LED lit up; when open, the circuit broke and the LED turned off. We also tried connecting the switch in the opposite direction — since it's not polarized, it functioned the same either way. The switch controls the full series current, giving simple on/off control over the LED.
 
+| R1 [Ω] | Measured V1 [V] | Measured V_LED [V] |
+|--------|-----------------|--------------------|
+| 220    |       2.25      |        2.73        |
+| 1000   |       2.18      |        2.74        |
+| 4700   |       2.73      |        2.28        |
+
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2.jpeg?raw=true" width="300" height="300"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2.jpeg?raw=true" width="300" height="300"> 
+<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2.jpeg?raw=true" width="300" height="300"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2%20Different%20Resistors.jpeg?raw=true" width="300" height="300"> 
 
 
 ---
