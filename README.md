@@ -113,7 +113,7 @@ The switch controls the **Gate-Source voltage (V_GS)** — a low-power 5V signal
 
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.1.jpeg?raw=true" width="300" height="300"> 
+<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.1.jpeg?raw=true" width="300" height="350"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.2%20B.jpeg?raw=true" width="300" height="210">
 
 
 
