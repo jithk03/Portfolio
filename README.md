@@ -8,7 +8,7 @@ Hi Iam Jithu Kennedy
 
 This portfolio is a raw look at my fabrication projects. I share the wins, the losses, and the technical iterations that happen in between. Join me as I build, break, and learn.
 <br>
-My Immatriculation No:6645377
+**My Immatriculation No:6645377**
 <br>
 University Email id: jithu.kennedy@uni-oldenburg.de
 
@@ -76,9 +76,9 @@ We introduced a 1 kΩ potentiometer (R2) and a fixed 100 Ω resistor (R1) to cre
 
 | Position           | V_LED [V] | V2 [V] |
 |--------------------|-----------|--------|
-| a) Full brightness |           |        |
-| b) Dimmed          |           |        |
-| c) OFF             |           |        |
+| a) Full brightness |    2.96   |   2.98 |
+| b) Dimmed          |    2.89   |   4.54 |
+| c) OFF             |    0.28   |   4.55 |
 
 **Images**
 
