@@ -137,7 +137,8 @@ We replaced the manual switch with a PWM Signal Generator (powered from the USB 
 
 **Video**
 
-<video src="Exercises Pictures/Task 2.2 B.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/jithk03/Portfolio/blob/a8955b0115042e8b45d1c46a659389bbc8fa61ff/Exercises%20Pictures/Task%202.2.mp4?raw=true" width="300" height="240" controls></video>
+
 
 Higher duty cycle = more time ON = higher average power = brighter strip. Unlike the potentiometer (which wastes energy as heat), PWM is efficient — the MOSFET is either fully ON or fully OFF.
 
