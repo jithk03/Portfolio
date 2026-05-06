@@ -80,6 +80,8 @@ We introduced a 1 kΩ potentiometer (R2) and a fixed 100 Ω resistor (R1) to cre
 | b) Dimmed          |           |        |
 | c) OFF             |           |        |
 
+**Images**
+
 <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.3.jpeg?raw=true" width="300" height="300"> 
 
 
@@ -108,8 +110,13 @@ The LED strip was connected between 12V and the Drain. A gate resistor (Rg = 100
 - Switch **open** → pull-down held Gate at 0V → MOSFET OFF → LED strip dark
 
 The switch controls the **Gate-Source voltage (V_GS)** — a low-power 5V signal switching a high-power 12V load. This is the core principle of MOSFET operation: a voltage-controlled switch with negligible gate current draw.
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.3.jpeg?raw=true" width="300" height="300"> 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.3.jpeg?raw=true" width="300" height="300"> 
+
+**Images**
+
+<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.1.jpeg?raw=true" width="300" height="300"> 
+
+
+
 > This task required the professor's guidance on the dual power supply setup (5V control + 12V load) and shared ground wiring.
 
 ---
