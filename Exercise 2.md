@@ -10,7 +10,7 @@ In this exercise, we built a functional alarm clock using an Arduino Uno, an LCD
 
 We recorded photos and videos of the circuits throughout the session for this portfolio.
 
-> **Note:** Unlike Exercise 1, this manual did not provide step-by-step instructions for the full system — it explained each component individually and left the integration to us. The provided example code (`DDF_Arduino101_AlarmClock.ino`) was used as a base, which we then modified with our own improvements.
+
 
 ---
 
