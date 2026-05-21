@@ -35,7 +35,7 @@ The buzzer was connected to digital pin 13 on the Arduino through a current-limi
 > 📸 *Photos and a short video of the buzzer in operation were taken.*
 
 ---
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Taske%201.1.jpeg?raw=true" width="350" height="350">  <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.1%20B.jpeg?raw=true" width="363" height="360">
+<img src="https://github.com/jithk03/Portfolio/blob/main/Excercise%202/E2T1.jpeg" width="350" height="350">  
 
 ## Sub-circuit 2 – LCD Screen (I2C)
 
