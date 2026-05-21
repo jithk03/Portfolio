@@ -1,5 +1,5 @@
 # Exercise 2: Introduction to Arduino
-### Digital Design & Fabrication — Portfolio Entry
+### Digital Design & Fabrication 
 > Carl von Ossietzky Universität Oldenburg
 
 ---
