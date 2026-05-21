@@ -36,6 +36,7 @@ The buzzer was connected to digital pin 13 on the Arduino through a current-limi
 
 ---
 <img src="https://github.com/jithk03/Portfolio/blob/main/Excercise%202/E2T1.jpeg" width="350" height="350">  
+
 https://github.com/user-attachments/assets/33f0aaab-157f-4ffa-a9da-8d23d8edcf03
 
 
