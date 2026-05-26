@@ -169,3 +169,5 @@ At low frequencies the eye can detect individual on/off cycles. Above ~50–60 H
 ---
 
 *Digital Design & Fabrication — Exercise 1 | Carl von Ossietzky Universität Oldenburg*
+
+[Exercise 1](Exercise%201%20EC/Exercise%201.md)
