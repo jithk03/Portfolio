@@ -31,7 +31,7 @@ We built a series circuit with Vcc = 5V, a current-limiting resistor R1, and a g
 
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Taske%201.1.jpeg?raw=true" width="350" height="350">  <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.1%20B.jpeg?raw=true" width="363" height="360">
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%201.1%20B.jpeg" width="350" height="350">     <img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Taske%201.1.jpeg" width="350" height="350">
 
 
 
@@ -49,7 +49,7 @@ We added a 2-position switch (S1) in series with the LED. When the switch was cl
 
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2.jpeg?raw=true" width="300" height="300"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.2%20Different%20Resistors.jpeg?raw=true" width="300" height="300"> 
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%201.2.jpeg" width="300" height="300"> <img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%201.2%20Different%20Resistors.jpeg" width="300" height="300"> 
 
 
 ---
@@ -68,8 +68,8 @@ We introduced a 1 kΩ potentiometer (R2) and a fixed 100 Ω resistor (R1) to cre
 
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%201.3.jpeg?raw=true" width="300" height="300"> 
-
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%201.3.jpeg" width="300" height="300">  
+https://github.com/jithk03/Portfolio/blob/main/Exercise%201%20EC/Task%201.3%20Video.mp4
 
 
 **Observations:** Rotating the potentiometer smoothly varied the voltage at the wiper, giving continuous brightness control — much more practical than swapping resistors as in Task 1.1.
@@ -99,7 +99,7 @@ The switch controls the **Gate-Source voltage (V_GS)** — a low-power 5V signal
 
 **Images**
 
-<img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.1.jpeg?raw=true" width="300" height="350"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.2%20B.jpeg?raw=true" width="300" height="210">
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%202.1.jpeg" width="300" height="350"> <img src="https://github.com/jithk03/Portfolio/blob/main/Exercises%20Pictures/Task%202.2%20B.jpeg?raw=true" width="300" height="210">
 
 
 
@@ -123,6 +123,7 @@ We replaced the manual switch with a PWM Signal Generator (powered from the USB 
 
 **Video**
 
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%202.2%20B.jpeg" width="300" height="300">
 <video src="https://github.com/jithk03/Portfolio/blob/a8955b0115042e8b45d1c46a659389bbc8fa61ff/Exercises%20Pictures/Task%202.2.mp4?raw=true" width="300" height="240" controls></video>
 
 
@@ -140,6 +141,7 @@ Higher duty cycle = more time ON = higher average power = brighter strip. Unlike
 
 At low frequencies the eye can detect individual on/off cycles. Above ~50–60 Hz, flicker becomes imperceptible and the strip appears to glow steadily at reduced brightness.
 
+<img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%202.2%20B.jpeg" width="300" height="300">
 ---
 
 ## Summary
