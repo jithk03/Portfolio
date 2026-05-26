@@ -50,4 +50,3 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 *Digital Design & Fabrication | Carl von Ossietzky Universität Oldenburg*
 
 
-[Exercise 1](Exercise%201%20EC/Exercise%201.md)
