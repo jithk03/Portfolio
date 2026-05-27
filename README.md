@@ -36,7 +36,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 - ### [Exercise 2 — Alarm Clock](./Exercise2/README.md)
   Building a programmable alarm clock using Arduino Uno, an I2C LCD display, a Real Time Clock module, a buzzer, and push buttons.
 
-  - ### [Exercise 3 — Sensors & Actuators](./Exercise3/README.md)
+- ### [Exercise 3 — Sensors & Actuators](./Exercise3/README.md)
   Building a sensor-driven pneumatic system using two air pumps, an air valve, an inflatable pillow, and MOSFET driver modules controlled by Arduino.
 
 ---
