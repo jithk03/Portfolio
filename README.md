@@ -23,7 +23,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | # | Title | Topics Covered | Status |
 |---|-------|---------------|--------|
 | [Exercise 1](Exercise%201%20EC/Exercise%201.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
-| [Exercise 2](Exercise%202%20AU/Exercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
+| [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
 | [Exercise 3](./Exercise3/README.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | 🔄 In Progress |
 
 ---
