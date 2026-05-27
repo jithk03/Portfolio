@@ -23,7 +23,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | # | Title | Topics Covered | Status |
 |---|-------|---------------|--------|
 | [Exercise 1](Exercise%201%20EC/Exercise%201.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
-| [Exercise 2](./Exercise2/README.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
+| [Exercise 2](Excercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
 | [Exercise 3](./Exercise3/README.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | 🔄 In Progress |
 
 ---
@@ -33,7 +33,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 - ### [Exercise 1 — Electrical Circuits](Exercise%201%20EC/Exercise%201.md)
   Building and testing LED control circuits with resistors, switches, potentiometers and a MOSFET transistor switch driven by PWM.
 
-- ### [Exercise 2 — Alarm Clock](./Exercise2/README.md)
+- ### [Exercise 2 — Alarm Clock](Excercise%202%20AU/Excercise%202.md)
   Building a programmable alarm clock using Arduino Uno, an I2C LCD display, a Real Time Clock module, a buzzer, and push buttons.
 
 - ### [Exercise 3 — Sensors & Actuators](./Exercise3/README.md)
