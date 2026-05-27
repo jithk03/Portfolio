@@ -99,13 +99,6 @@ https://github.com/user-attachments/assets/2e33a22b-8f08-4b2d-bc82-a3577d166d0c
 
 ---
 
-### 🎥 Demo Video
-
-<!-- Replace with your actual video path or YouTube link -->
-[Watch Demo Video](./videos/demo.mp4)
-
----
-
 ## Reflection
 
 This was the most complex exercise so far — stressful at times, but ultimately the most rewarding. Debugging a system with both a pneumatic side and an electronic side simultaneously was genuinely difficult, especially when the issue turned out to be something as subtle as a misconnected MOSFET pin rather than anything in the code.
