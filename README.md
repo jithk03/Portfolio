@@ -24,7 +24,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 |---|-------|---------------|--------|
 | [Exercise 1](Exercise%201%20EC/Exercise%201.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
 | [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
-| [Exercise 3](./Exercise3/README.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | 🔄 In Progress |
+| [Exercise 3](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | 🔄 In Progress |
 
 ---
 
@@ -36,7 +36,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 - ### [Exercise 2 — Alarm Clock](Exercise%202%20AU/Excercise%202.md)
   Building a programmable alarm clock using Arduino Uno, an I2C LCD display, a Real Time Clock module, a buzzer, and push buttons.
 
-- ### [Exercise 3 — Sensors & Actuators](./Exercise3/README.md)
+- ### [Exercise 3 — Sensors & Actuators](Exercise%203/Exercise%203.md)
   Building a sensor-driven pneumatic system using two air pumps, an air valve, an inflatable pillow, and MOSFET driver modules controlled by Arduino.
 
 ---
