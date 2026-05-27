@@ -132,5 +132,4 @@ Controlling inflation speed proportionally based on how close the hand is to the
 
 *Digital Design & Fabrication — Exercise 3 | Carl von Ossietzky Universität Oldenburg*
 
-https://github.com/user-attachments/assets/98eb52ce-690a-40ae-bc06-048dc9d13b1f
 
