@@ -25,7 +25,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | [Exercise 1](Exercise%201%20EC/Exercise%201.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
 | [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
 | [Exercise 3](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
-| [Exercise 4](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
+| [Exercise 4](./Exercise4/README.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
 
 ---
 
@@ -39,6 +39,10 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 
 - ### [Exercise 3 — Sensors & Actuators](Exercise%203/Exercise%203.md)
   Building a sensor-driven pneumatic system using two air pumps, an air valve, an inflatable pillow, and MOSFET driver modules controlled by Arduino.
+
+- ### [Exercise 4 — E-Textiles](./Exercise4/README.md)
+  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+
 
 ---
 
