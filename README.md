@@ -12,8 +12,6 @@ This portfolio is a raw look at my fabrication projects. I share the wins, the l
 <br>
 University Email id: jithu.kennedy@uni-oldenburg.de
 
-# Exercise 1: Electrical Circuits
-# Date : 30/04/2026
 ### Digital Design & Fabrication — Portfolio Entry
 > Carl von Ossietzky Universität Oldenburg
 
