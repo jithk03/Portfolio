@@ -26,7 +26,7 @@ As part of the Digital Design and Fabrication course, this self-study session re
 
 Screenshot of the Onshape training dashboard showing all three courses completed:
 
-
+<img src="https://github.com/jithk03/Portfolio/blob/d184dcae422c7165f06e943662850390e0f1b0ce/Exercise%207/Excercise%207%20Onshape.png">
 
 ## Reflection
 
