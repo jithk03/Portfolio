@@ -24,8 +24,8 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
 | [Exercise 3](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
 | [Exercise 4](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
-| [Exercise 4](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
-| [Exercise 4](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
+| [Exercise 5](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
+| [Exercise 6](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
 | [Exercise 7](Exercise%207/Readme.md) | On-Shape Self Study | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
 
 ---
@@ -42,6 +42,15 @@ University Email id: jithu.kennedy@uni-oldenburg.de
   Building a sensor-driven pneumatic system using two air pumps, an air valve, an inflatable pillow, and MOSFET driver modules controlled by Arduino.
 
 - ### [Exercise 4 — E-Textiles](Exercise%204%20Textile/Exercise%204.md)
+  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+
+- ### [Exercise 5 — E-Textiles](Exercise%204%20Textile/Exercise%204.md)
+  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+
+- ### [Exercise 6 — E-Textiles](Exercise%204%20Textile/Exercise%204.md)
+  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+
+- ### [Exercise 7 — On-Shape Self Study](Exercise%207/Readme.md)
   Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
 
 
