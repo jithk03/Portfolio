@@ -96,7 +96,8 @@ After correcting all short circuits and completing the stitching, all 5 LEDs lit
 
 ### 🎥 Final Output
 
-https://github.com/jithk03/Portfolio/blob/main/Exercise%204%20Textile/Final%20video.mp4
+https://github.com/jithk03/Portfolio/blob/522494fc9805a360614c209e499b211836d2e6a0/Exercise%204%20Textile/Final%20video.mp4
+
 
 ---
 
