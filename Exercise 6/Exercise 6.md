@@ -69,7 +69,7 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 | Settings — Machine Control Panel |
 |:---:|
-| ![Machine panel](images/settings_panel.jpg) |
+| <img src="https://github.com/jithk03/Portfolio/blob/cbc67824ef9eeba976d6570d16059278f2499d0d/Exercise%206/manual%20.jpg" length="350" width="350"> |
 | *Figure 3 — Power and speed settings on the machine panel* |
 
 ---
