@@ -31,8 +31,8 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 ### Concept & Inkscape File
 
-<img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/Jithu%20.jpeg" length="350" width="350">
-| Figure 1 — Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)* |
+ <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/Jithu%20.jpeg" length="350" width="350"> 
+ Figure 1 — Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)
 
 **Design decisions:**
 - **Vector layer** (red stroke, 0.001" line width): outer card outline + cut-out letters/shapes
@@ -57,14 +57,14 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 | Operation | Speed (%) | Power (%) | Passes | Notes |
 |---|---|---|---|---|
-| Raster engrave | | | 1 | Engraving text & graphics |
-| Vector score | | | 1 | Decorative lines / folds |
+| Raster engrave | 60 | 100 | 1 | Engraving text & graphics |
+| Vector score | 07| 100 | 1 | Decorative lines / folds |
 | Vector cut (outline) | | | 1–2 | Full cut-through |
 
 <!-- Photos of the software/settings screen on the laser cutter -->
 | Settings — Software Configuration |
 |:---:|
-<img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/First.jpeg" length="400" width="400">
+| <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/First.jpeg" length="400" width="400"> |
 | *Figure 2 — Laser cutter job settings in the control software* |
 
 | Settings — Machine Control Panel |
@@ -80,18 +80,14 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 
 | Measurement Tool | Measured Thickness |
 |---|---|
-| Digital caliper | ___ mm |
+| Digital caliper | 3.10 mm |
 
 <!-- Photos of measuring the MDF sheet with calipers -->
 | Measuring with Digital Caliper |
 |:---:|
-| ![Thickness measurement 1](images/measure_caliper_1.jpg) |
-| *Figure 4 — Measuring the MDF plywood at point 1* |
+| <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Second%20measuring%20thickness.jpeg" height="400" width="400"> |
+| *Figure 4 — Measuring the MDF plywood* |
 
-| | |
-|:---:|:---:|
-| ![Thickness measurement 2](images/measure_caliper_2.jpg) | ![Thickness measurement 3](images/measure_caliper_3.jpg) |
-| *Figure 5 — Measurement at point 2* | *Figure 6 — Measurement at point 3 (edge)* |
 
 > **Note:** MDF thickness can vary slightly across the sheet. Take at least 3 measurements and use the average for focus calibration.
 
@@ -125,13 +121,9 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 
 ### Process Video
 
-> _Embed or link a video of the cutting process below._
-
-<!-- Option A: GitHub hosted video (MP4 < 10 MB) -->
-https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/cutting_process.mp4
-
 <!-- Option B: YouTube / unlisted link -->
-[![Cutting process video](images/cutting_video_thumbnail.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Cutting process video](Exercise 6/Final output.jpeg)](Exercise 6/fourth video.mp4 )
+
 *Video 1 — Laser cutting the business card*
 
 ---
@@ -140,13 +132,10 @@ https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/cutting_process.mp4
 
 | Front of Card |
 |:---:|
-| ![Final card front](images/final_front.jpg) |
+| <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Final%20output.jpeg" length="400" width="400"> |
 | *Figure 10 — Final laser-cut business card (front)* |
 
-| Back of Card | Card in Hand |
-|:---:|:---:|
-| ![Final card back](images/final_back.jpg) | ![Card in hand](images/final_in_hand.jpg) |
-| *Figure 11 — Back side* | *Figure 12 — Scale reference* |
+
 
 **Observations:**
 - Engraving quality: _e.g. crisp / slightly burned edges_
@@ -172,21 +161,6 @@ https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/cutting_process.mp4
 
 ---
 
-### Attempt 2 *(if applicable)*
-
-| Failed Attempt 2 |
-|:---:|
-| ![Failed attempt 2](images/failed_attempt_2.jpg) |
-| *Figure 14 — Second failed attempt* |
-
-**What went wrong:**
-> _e.g. Focus height was off — cut did not go all the way through in one pass._
-
-**What I changed:**
-> _e.g. Re-measured material thickness (was 3.2 mm, not 3.0 mm) and recalibrated focus._
-
----
-
 ## Summary
 
 | | |
@@ -202,4 +176,4 @@ https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/cutting_process.mp4
 
 ---
 
-*Report by [Your Name] · inf175 · Universität Oldenburg*
+*Report by [Jithu Kennedy] · inf175 · Universität Oldenburg*
