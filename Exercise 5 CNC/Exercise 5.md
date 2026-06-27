@@ -52,46 +52,28 @@ A Christmas tree-shaped candle holder was used as the example design for this ex
 
 ## Reflection
 
-*(Add your personal notes here: what design you chose, any challenges encountered while drawing the outline or aligning the pocket, how the milling turned out, and what you would do differently next time.)*
+For this exercise, I designed my own custom shape rather than using the Christmas tree example. Drawing the outline with the Pencil tool turned out to be trickier than expected — my freehand curves came out jagged and uneven rather than smooth, which meant I had to go back in with the Node tool afterward to clean things up by adjusting Bézier handles and merging/removing nodes. In hindsight, relying more on the smoothing setting from the start, or building the curve from fewer, more deliberate node placements instead of a long freehand drag, would likely have given a cleaner result with less rework.
+
+The other main challenge was centering the candle pocket. Even after using the Align and Distribute tool, the circle ended up slightly off-center relative to my outline. This was likely due to aligning the circle relative to the page rather than to the outline itself (or vice versa), since the two reference points can give different results if the design isn't perfectly centered on the page itself. Next time, I'd double-check which alignment reference is selected before relying on the tool, and possibly verify the result numerically (checking X/Y coordinates) rather than just visually.
+
+The final milled piece worked, but came out with a small dimension mismatch versus my original design. This was a minor issue rather than a major failure, but it suggests that something shifted slightly between the Inkscape vector file and the CAM toolpath — possibly during export/import or in how the toolpath software interpreted the path geometry. For future iterations, I'd add a verification step where I measure the design dimensions directly in the CAM software before milling, to catch any discrepancies earlier.
+
+Overall, the piece was usable despite these issues, and the exercise was a good introduction to the gap between a clean-looking digital vector design and the practical precision needed for physical fabrication.
 
 ## Pictures
 
 ### Vector Design (Inkscape)
 
-*(Insert a screenshot of your finished outline + candle pocket in Inkscape here.)*
+<img src="https://github.com/jithk03/Portfolio/blob/b8b28bc26f73a3a91af3beab48b806a28d824a0d/Exercise%205%20CNC/Logo.jpg" length="400" breadth="400">
 
-```markdown
-![Inkscape design](./images/inkscape-design.png)
-```
-
-### CAM Toolpaths
-
-*(Insert a screenshot of the generated toolpaths from the CAM software here.)*
-
-```markdown
-![CAM toolpaths](./images/cam-toolpaths.png)
-```
 
 ### Milling Process
 
-*(Insert photos of the CNC machine milling the design here.)*
-
-```markdown
-![Milling in progress](./images/milling-process.png)
-```
+https://github.com/jithk03/Portfolio/blob/main/Exercise%205%20CNC/First%20Video.mp4
 
 ### Final Result
 
-*(Insert photos of the finished wooden tea light candle holder here — multiple angles recommended.)*
+<img src="https://github.com/jithk03/Portfolio/blob/b8b28bc26f73a3a91af3beab48b806a28d824a0d/Exercise%205%20CNC/Final%201.jpeg" length="350" width="350">
 
-```markdown
-![Final candle holder](./images/final-result.png)
-```
+<img src="https://github.com/jithk03/Portfolio/blob/b8b28bc26f73a3a91af3beab48b806a28d824a0d/Exercise%205%20CNC/Final%202.jpeg" length="350" width="350">
 
-### Failed Attempts / Issues *(optional)*
-
-*(If applicable, insert photos of any failed attempts along with a short note on what went wrong and how it was fixed.)*
-
-```markdown
-![Failed attempt](./images/failed-attempt.png)
-```
