@@ -102,26 +102,18 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 3. Ran a **test engrave** on a scrap piece to verify settings
 4. Placed the MDF sheet and ran the **raster job** first, then the **vector cut**
 
-<!-- Photos and videos of the cutting process -->
+<!-- videos of the cutting process -->
 
-| Bed Setup — Material Positioned |
-|:---:|
-| ![Bed setup](images/cutting_bed_setup.jpg) |
-| *Figure 7 — MDF sheet positioned on the laser cutter bed* |
 
-| Engraving in Progress |
-|:---:|
-| ![Engraving process](images/cutting_engraving.jpg) |
-| *Figure 8 — Raster engraving pass running* |
-
-| Vector Cutting in Progress |
-|:---:|
-| ![Vector cutting](images/cutting_vector.jpg) |
-| *Figure 9 — Vector cut (outline) running* |
 
 ### Process Video
 
 <!-- Option B: YouTube / unlisted link -->
+
+[Watch the video](https://raw.githubusercontent.com/jithk03/Portfolio/6fd1a3068436367083c4fe895e051a9fafa815fa/Exercise%206/fourth%20video.mp4)
+
+https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
+
 [![Cutting process video](Exercise 6/Final output.jpeg)](Exercise 6/fourth video.mp4 )
 
 *Video 1 — Laser cutting the business card*
