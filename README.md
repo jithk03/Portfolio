@@ -24,8 +24,8 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
 | [Exercise 3](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
 | [Exercise 4](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
-| [Exercise 5](Exercise%204%20Textile/Exercise%204.md) | CNC-Milling | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
-| [Exercise 6](Exercise%206/Exercise%206.md) | Laser-Cutting Bussiness Card | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
+| [Exercise 5](Exercise%204%20Textile/Exercise%204.md) | CNC-Milling | Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design | ✅ Completed |
+| [Exercise 6](Exercise%206/Exercise%206.md) | Laser-Cutting Bussiness Card | Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication | ✅ Completed |
 | [Exercise 7](Exercise%207/Readme.md) | On-Shape Self Study | On-Shape Self Study	Parametric feature-based CAD, sketching, part studios | ✅ Completed |
 
 ---
@@ -45,10 +45,10 @@ University Email id: jithu.kennedy@uni-oldenburg.de
   Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
 
 - ### [Exercise 5 — CNC-Milling](Exercise%204%20Textile/Exercise%204.md)
-  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+  Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design
 
 - ### [Exercise 6 — Laser-Cutting](Exercise%206/Exercise%206.md)
-  Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
+  Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication
 
 - ### [Exercise 7 — On-Shape Self Study](Exercise%207/Readme.md)
   Completing Onshape's guided online courses to learn parametric, feature-based CAD modeling — covering core modeling principles, 2D sketching fundamentals, and building parts in the Part Studio environment.
