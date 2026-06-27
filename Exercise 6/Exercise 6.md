@@ -110,11 +110,10 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 
 <!-- Option B: YouTube / unlisted link -->
 
-[Watch the video](https://raw.githubusercontent.com/jithk03/Portfolio/6fd1a3068436367083c4fe895e051a9fafa815fa/Exercise%206/fourth%20video.mp4)
 
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
-[![Cutting process video](Exercise 6/Final output.jpeg)](Exercise 6/fourth video.mp4 )
+
 
 *Video 1 — Laser cutting the business card*
 
@@ -136,22 +135,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
 ---
 
-## Failed Attempts & Reflections
 
-### Attempt 1
-
-| Failed Attempt 1 |
-|:---:|
-| ![Failed attempt 1](images/failed_attempt_1.jpg) |
-| *Figure 13 — First failed attempt* |
-
-**What went wrong:**
-> _e.g. Power too high — burned through fine details. The engraving pass scorched the surface around letters._
-
-**What I changed:**
-> _e.g. Reduced power from 80% → 60% and increased speed from 40% → 55%._
-
----
 
 ## Summary
 
