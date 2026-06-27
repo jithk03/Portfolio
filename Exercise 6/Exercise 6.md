@@ -113,7 +113,7 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
-
+https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 *Video 1 — Laser cutting the business card*
 
@@ -134,8 +134,6 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 - Bridges: _held up well / required light sanding_
 
 ---
-
-
 
 ## Summary
 
