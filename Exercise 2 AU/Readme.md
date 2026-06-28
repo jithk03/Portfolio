@@ -53,7 +53,7 @@ I2C uses two wires — SCL sets the timing like a clock, and SDA carries the act
 **This sub-circuit gave us trouble.** We first had to determine the LCD's I2C address using the `I2C_scanner.ino` sketch. The scanner revealed the address was `0x27` — not immediately obvious, and the wiring had to be corrected before the scanner could even detect the device. Once the address was confirmed and wiring fixed with the professor's help, we loaded `LCD_test.ino` and successfully displayed text on the screen.
 
 > 📸 *Photo of the LCD displaying test text was taken.*
-
+ <img src="https://github.com/jithk03/Portfolio/blob/290a5d7b6bb50de1872d51f4e1b41b70c6161fb2/Exercise%202%20AU/LCD%20Task%202.jpeg" height="400" width="400">
 ---
 
 ## Sub-circuit 3 – Real Time Clock (RTC)
