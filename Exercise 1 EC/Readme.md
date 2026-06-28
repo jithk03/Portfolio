@@ -69,7 +69,8 @@ We introduced a 1 kΩ potentiometer (R2) and a fixed 100 Ω resistor (R1) to cre
 **Images**
 
 <img src="https://github.com/jithk03/Portfolio/blob/dfe74bb40e2cb30c9ab6303fa952cd94a733bff5/Exercise%201%20EC/Task%201.3.jpeg" width="300" height="300">  
-https://github.com/jithk03/Portfolio/blob/main/Exercise%201%20EC/Task%201.3%20Video.mp4
+
+[Watch the video](https://drive.google.com/file/d/19aixS2WySjhdIjeeij2QjAtw5lJaEMaf/view?usp=drive_link)
 
 
 **Observations:** Rotating the potentiometer smoothly varied the voltage at the wiper, giving continuous brightness control — much more practical than swapping resistors as in Task 1.1.
