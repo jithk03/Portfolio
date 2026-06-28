@@ -20,34 +20,34 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 
 | # | Title | Topics Covered | Status |
 |---|-------|---------------|--------|
-| [Exercise 1](Exercise%201%20EC/Exercise%201.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
-| [Exercise 2](Exercise%202%20AU/Excercise%202.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
-| [Exercise 3](Exercise%203/Exercise%203.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
-| [Exercise 4](Exercise%204%20Textile/Exercise%204.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
-| [Exercise 5](Exercise%205%20CNC/Exercise%205.md) | CNC-Milling | Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design | ✅ Completed |
-| [Exercise 6](Exercise%206/Exercise%206.md) | Laser-Cutting Bussiness Card | Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication | ✅ Completed |
+| [Exercise 1](Exercise%201%20EC/Readme.md) | Electrical Circuits | LED, resistors, switch, potentiometer, MOSFET, PWM | ✅ Completed |
+| [Exercise 2](Exercise%202%20AU/Readme.md) | Introduction to Arduino — Alarm Clock | Arduino Uno, LCD, RTC, buzzer, push buttons, I2C | ✅ Completed |
+| [Exercise 3](Exercise%203/Readme.md) | Sensors & Actuators — Pneumatic System | Air pumps, valve, MOSFET modules, sensor interaction, Arduino | ✅ Completed  |
+| [Exercise 4](Exercise%204%20Textile/Readme.md) | E-Textiles — LED Patch | Conductive thread, sewable LEDs, parallel circuit, soft circuits | ✅ Completed |
+| [Exercise 5](Exercise%205%20CNC/Readme.md) | CNC-Milling | Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design | ✅ Completed |
+| [Exercise 6](Exercise%206/Readme.md) | Laser-Cutting Bussiness Card | Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication | ✅ Completed |
 | [Exercise 7](Exercise%207/Readme.md) | On-Shape Self Study | On-Shape Self Study	Parametric feature-based CAD, sketching, part studios | ✅ Completed |
 
 ---
 
 ## 🔗 Quick Links
 
-- ### [Exercise 1 — Electrical Circuits](Exercise%201%20EC/Exercise%201.md)
+- ### [Exercise 1 — Electrical Circuits](Exercise%201%20EC/Readme.md)
   Building and testing LED control circuits with resistors, switches, potentiometers and a MOSFET transistor switch driven by PWM.
 
-- ### [Exercise 2 — Alarm Clock](Exercise%202%20AU/Excercise%202.md)
+- ### [Exercise 2 — Alarm Clock](Exercise%202%20AU/Readme.md)
   Building a programmable alarm clock using Arduino Uno, an I2C LCD display, a Real Time Clock module, a buzzer, and push buttons.
 
-- ### [Exercise 3 — Sensors & Actuators](Exercise%203/Exercise%203.md)
+- ### [Exercise 3 — Sensors & Actuators](Exercise%203/Readme.md)
   Building a sensor-driven pneumatic system using two air pumps, an air valve, an inflatable pillow, and MOSFET driver modules controlled by Arduino.
 
-- ### [Exercise 4 — E-Textiles](Exercise%204%20Textile/Exercise%204.md)
+- ### [Exercise 4 — E-Textiles](Exercise%204%20Textile/Readme.md)
   Designing and hand-sewing an LED patch on fabric using conductive thread, sewable LEDs, and a coin battery — exploring soft circuits and e-textile techniques.
 
-- ### [Exercise 5 — CNC-Milling](Exercise%205%20CNC/Exercise%205.md)
+- ### [Exercise 5 — CNC-Milling](Exercise%205%20CNC/Readme.md)
   Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design
 
-- ### [Exercise 6 — Laser-Cutting](Exercise%206/Exercise%206.md)
+- ### [Exercise 6 — Laser-Cutting](Exercise%206/Readme.md)
   Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication
 
 - ### [Exercise 7 — On-Shape Self Study](Exercise%207/Readme.md)
