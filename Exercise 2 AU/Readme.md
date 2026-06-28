@@ -54,6 +54,8 @@ I2C uses two wires — SCL sets the timing like a clock, and SDA carries the act
 
 > 📸 *Photo of the LCD displaying test text was taken.*
  <img src="https://github.com/jithk03/Portfolio/blob/290a5d7b6bb50de1872d51f4e1b41b70c6161fb2/Exercise%202%20AU/LCD%20Task%202.jpeg" height="400" width="400">
+
+ [Watch the video](https://drive.google.com/file/d/1u3WwGI69k6T8z0B7usljiyZQamYLsNAl/view?usp=drive_link)
 ---
 
 ## Sub-circuit 3 – Real Time Clock (RTC)
