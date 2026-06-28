@@ -67,7 +67,7 @@ The RTC module was connected in parallel with the LCD on the same I2C bus (SDA �
 **This sub-circuit also required help.** We ran `I2C_scanner.ino` again with both devices connected and got two addresses — we already knew the LCD address from Sub-circuit 2, so the new address belonged to the RTC. However, we had initial wiring issues where the RTC was not being detected at all. The professor helped us identify a loose connection on the breadboard. Once corrected, we ran `RTC_LCD_test.ino` and successfully displayed the real time on the LCD screen.
 
 > 📸 *Photo of the RTC + LCD showing live time was taken.*
-
+ [Watch the video](https://drive.google.com/file/d/1u3WwGI69k6T8z0B7usljiyZQamYLsNAl/view?usp=drive_link)
 ---
 
 ## Sub-circuit 4 – Push Buttons
