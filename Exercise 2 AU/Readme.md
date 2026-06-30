@@ -110,7 +110,8 @@ The clock itself functioned correctly — time was displayed accurately on the L
 
 We documented the working state (time display + RTC functioning) and noted the unresolved issues for the portfolio.
 
-> 🎥 *A video of the alarm clock in operation (showing the time display and partial alarm behavior) was recorded.*
+> 🎥 *A Picture of the alarm clock in operation (showing the time display and partial alarm behavior) was recorded.*
+>  <img src="https://github.com/jithk03/Portfolio/blob/90dc508f694934ea37ae85ade66d12fbb76d01f6/Exercise%202%20AU/Excercise%202%20alarm%20clock.jpeg" height="300" width="300">
 
 ---
 
