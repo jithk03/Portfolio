@@ -34,12 +34,6 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
  <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/Jithu%20.jpeg" length="350" width="350"> 
  Figure 1 — Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)
 
-**Design decisions:**
-- **Vector layer** (red stroke, 0.001" line width): outer card outline + cut-out letters/shapes
-- **Raster layer** (black fill): engraved name, title, contact details, logo/graphic
-- Bridges added to enclosed letters (e.g. **A, B, D, O, P, Q, R**) to keep inner parts attached
-- Font chosen for legibility at small scale after engraving
-
 ---
 
 ## Material & Settings Configuration
@@ -135,16 +129,6 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 ---
 
-## Summary
-
-| | |
-|---|---|
-| **Course** | Digital Design and Fabrication (inf175) |
-| **Exercise** | 6 — Laser Cut Business Cards |
-| **Tool** | Inkscape + Laser cutter (lab) |
-| **Material** | MDF Plywood, ~3 mm |
-| **Techniques** | Vector cut, raster engrave, bridges for cut-out type |
-| **Date** | June 2026 |
 
 > **Inspiration:** [MIT HCIE — Laser Cut Business Card examples](https://hcie.csail.mit.edu/classes/2021-fall6810/laser-cut-business-card.html)
 
