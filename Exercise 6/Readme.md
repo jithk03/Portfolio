@@ -35,8 +35,6 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 ### Laser Cutter Settings
 
-> _Fill in the actual values you used in the lab._
-
 | Operation | Speed (%) | Power (%) | Passes | Notes |
 |---|---|---|---|---|
 | Raster engrave | 60 | 100 | 1 | Engraving text & graphics |
