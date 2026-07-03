@@ -40,5 +40,5 @@ Both comfortably within the 120 g / build volume limits.
 
 ## Final result
 
-<img src="https://github.com/jithk03/Portfolio/blob/69759ea867610e89df6989c096a469515dec5f6b/Exercise%208/IMG_1500.HEIC" height="450" width="400">
+<img src="https://github.com/jithk03/Portfolio/blob/0c637bab69030a33f6f795a0f821c6280587a6bf/Exercise%208/IMG_1501.HEIC" height="450" width="400">
 
