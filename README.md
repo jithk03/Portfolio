@@ -27,6 +27,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 | [Exercise 5](Exercise%205%20CNC/Readme.md) | CNC-Milling | Inkscape, Bézier curves, vector drawing (Pencil & Node tools), document setup, image tracing, fill & stroke, CAM toolpaths, candle holder design | ✅ Completed |
 | [Exercise 6](Exercise%206/Readme.md) | Laser-Cutting Bussiness Card | Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication | ✅ Completed |
 | [Exercise 7](Exercise%207/Readme.md) | On-Shape Self Study | On-Shape Self Study	Parametric feature-based CAD, sketching, part studios | ✅ Completed |
+| [Exercise 8](Exercise%208/Readme.md) | On-Shape Self Study | On-Shape Self Study	Parametric feature-based CAD, sketching, part studios | ✅ Completed |
 
 ---
 
@@ -50,7 +51,7 @@ University Email id: jithu.kennedy@uni-oldenburg.de
 - ### [Exercise 6 — Laser-Cutting](Exercise%206/Readme.md)
   Inkscape, vector & raster modes, business card layout, cut-out fonts with bridges, material selection, laser cutter fabrication
 
-- ### [Exercise 7 — On-Shape Self Study](Exercise%207/Readme.md)
+- ### [Exercise 8 — 3D-Printing](Exercise%208/Readme.md)
   Completing Onshape's guided online courses to learn parametric, feature-based CAD modeling — covering core modeling principles, 2D sketching fundamentals, and building parts in the Part Studio environment.
 
 
