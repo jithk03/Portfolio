@@ -68,9 +68,6 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Second%20measuring%20thickness.jpeg" height="400" width="400"> |
 | *Figure 4 — Measuring the MDF plywood* |
 
-
-> **Note:** MDF thickness can vary slightly across the sheet. Take at least 3 measurements and use the average for focus calibration.
-
 ---
 
 ## Cutting Process
