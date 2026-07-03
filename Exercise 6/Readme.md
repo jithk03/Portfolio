@@ -1,18 +1,6 @@
 # Exercise 6 — Laser Cut Business Cards
 ### Digital Design and Fabrication (inf175) · Carl von Ossietzky Universität Oldenburg
 
----
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Design Process](#design-process)
-3. [Material & Settings Configuration](#material--settings-configuration)
-4. [Measuring Material Thickness](#measuring-material-thickness)
-5. [Cutting Process](#cutting-process)
-6. [Final Result](#final-result)
-7. [Summary](#summary)
-
----
 
 ## Overview
 
