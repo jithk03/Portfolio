@@ -10,6 +10,11 @@ My second (and final) design was a Batman logo keychain with the word "vengeance
 
 This was my first time using a parametric CAD tool like Onshape. Going in, I didn't have much of an intuition for how sketches, constraints, and extrudes all connect to build up a part, so a lot of the early process was just getting used to how the tool thinks.
 
+## Intial Design
+
+<img src="https://github.com/jithk03/Portfolio/blob/b5a1c6cbb5799c1c8cf98a2de18fa7b26f3ed290/Exercise%208/Intial%20Design.png">
+This was my intial Design
+
 ## Modeling process
 
 To get the Batman logo shape right, I imported a JPEG reference image into the sketch and used it as a guide to trace the outline. I used a mix of the line tool and the spline tool to build the outline — the spline tool especially for the curved parts of the logo, since straight lines obviously wouldn't cut it for something like that.
@@ -35,5 +40,5 @@ Both comfortably within the 120 g / build volume limits.
 
 ## Final result
 
-*[Photos of the printed keychain to be added here]*
+<img src="https://github.com/jithk03/Portfolio/blob/b5a1c6cbb5799c1c8cf98a2de18fa7b26f3ed290/Exercise%208/IMG_1500.HEIC" height="450" width="400">
 
