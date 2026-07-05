@@ -40,7 +40,7 @@ A Christmas tree-shaped candle holder was used as the example design for this ex
   - Cutting the outer profile of the candle holder out of the wood block.
   - Milling the circular pocket to the correct depth for the candle.
 
-## Key Skills Practiced
+## What i Learned...!
 
 - Inkscape document setup and unit/page configuration
 - Freehand and node-based Bézier path drawing
