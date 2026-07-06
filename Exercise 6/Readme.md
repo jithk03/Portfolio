@@ -66,7 +66,7 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 | Measuring with Digital Caliper |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Second%20measuring%20thickness.jpeg" height="400" width="400"> |
-| *Figure 4 — Measuring the MDF plywood* |
+| *Figure  — Measuring the MDF plywood* |
 
 ---
 
@@ -92,7 +92,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
-*Video 1 — Laser cutting the business card*
+*Video  — Laser cutting the business card*
 
 ---
 
@@ -113,8 +113,5 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 ---
 
 
-> **Inspiration:** [MIT HCIE — Laser Cut Business Card examples](https://hcie.csail.mit.edu/classes/2021-fall6810/laser-cut-business-card.html)
 
----
-
-*Report by [Jithu Kennedy] · inf175 · Universität Oldenburg*
+* inf175 · Universität Oldenburg*
