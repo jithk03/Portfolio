@@ -30,7 +30,7 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 | Property | Value |
 |---|---|
 | Material | MDF Plywood |
-| Nominal thickness | 3 mm (measured: see below) |
+| Nominal thickness | 3 mm  |
 | Dimensions used | 89 × 51 mm |
 
 ### Laser Cutter Settings
@@ -39,7 +39,6 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 |---|---|---|---|---|
 | Raster engrave | 60 | 100 | 1 | Engraving text & graphics |
 | Vector score | 07| 100 | 1 | Decorative lines / folds |
-| Vector cut (outline) | | | 1–2 | Full cut-through |
 
 <!-- Photos of the software/settings screen on the laser cutter -->
 | Settings — Software Configuration |
@@ -62,26 +61,12 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 |---|---|
 | Digital caliper | 3.10 mm |
 
-<!-- Photos of measuring the MDF sheet with calipers -->
 | Measuring with Digital Caliper |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Second%20measuring%20thickness.jpeg" height="400" width="400"> |
 | *Figure  — Measuring the MDF plywood* |
 
 ---
-
-## Cutting Process
-
-### Step-by-step
-
-1. Exported Inkscape file as `.svg` / `.pdf` and imported into the laser cutter software
-2. Set origin at top-left corner of the material
-3. Ran a **test engrave** on a scrap piece to verify settings
-4. Placed the MDF sheet and ran the **raster job** first, then the **vector cut**
-
-<!-- videos of the cutting process -->
-
-
 
 ### Process Video
 
