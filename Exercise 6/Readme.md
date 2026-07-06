@@ -9,7 +9,6 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 **Requirements:**
 - Standard business card dimensions: **89 × 51 mm**
 - Use of both **vector** (cut/score lines) and **raster** (engraving) modes
-- Cut-out fonts with **bridges** to prevent floating islands
 - Design aligned to the **top-left corner** with a **1 mm margin**
 - Material: MDF plywood (or cardboard / acrylic)
 
