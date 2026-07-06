@@ -9,7 +9,6 @@ Media Informatics and Multimedia Systems
 
 In this exercise, the goal was to design a wooden tea light candle holder in Inkscape and prepare it for milling on a CNC machine. The task involved creating a vector outline for the candle holder body and placing a precisely-sized circular pocket at its center to hold the tea light candle. The finished sketch was then imported into CAM software, where toolpaths were generated to cut the outline from a block of hardwood and mill out the candle pocket.
 
-A Christmas tree-shaped candle holder was used as the example design for this exercise.
 
 ## Design Process
 
