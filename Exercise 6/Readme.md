@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is part of the **Digital Design and Fabrication** course (inf175). The goal was to design and fabricate a laser-cut business card using **Inkscape** and a laser cutter in the university lab.
+This project is part of the **Digital Design and Fabrication** course (inf175). The goal was to design and fabricate a laser-cut business card using **Inkscape** and a laser cutter in the lab.
 
 **Requirements:**
 - Standard business card dimensions: **89 × 51 mm**
@@ -17,10 +17,10 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 ## Design Process
 
-### Concept & Inkscape File
+### Inkscape File
 
  <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/Jithu%20.jpeg" length="350" width="350"> 
- Figure 1 — Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)
+ Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)
 
 ---
 
@@ -44,12 +44,12 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 | Settings — Software Configuration |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/First.jpeg" length="400" width="400"> |
-| *Figure 2 — Laser cutter job settings in the control software* |
+| *Laser cutter job settings in the control software* |
 
 | Settings — Machine Control Panel |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/cbc67824ef9eeba976d6570d16059278f2499d0d/Exercise%206/manual%20.jpg" length="350" width="350"> |
-| *Figure 3 — Power and speed settings on the machine panel* |
+| *Power and speed settings on the machine panel* |
 
 ---
 
@@ -75,6 +75,10 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
+
+
+
+
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 *Video  — Laser cutting the business card*
@@ -86,7 +90,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 | Front of Card |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Final%20output.jpeg" length="400" width="400"> |
-| *Figure 10 — Final laser-cut business card (front)* |
+| * Final laser-cut business card (front)* |
 
 
 
@@ -96,8 +100,8 @@ Overall, the exercise produced an acceptable result, though it was not without i
 
 One significant issue I encountered was with the border of the card. After the initial cut, the border failed to execute properly despite the rest of the card printing as expected. After investigating, I realised the problem was related to the stroke settings in Inkscape — the stroke width needed to be set to **0.001 mm**, and the fill in the stroke and fill panel needed to be set to **100%** for the laser cutter to recognise it as a vector cut line. Once these adjustments were made, the border cut through cleanly as intended. This required several iterations and reworking of the design before achieving the correct result.
 
-If I were to redo this exercise, I would spend more time refining the design layout from the start — particularly planning the placement of cut lines, engraving regions, and bridges more carefully before sending the file to the laser cutter, in order to reduce the number of corrections needed mid-process.
+If I were to redo this exercise, I would spend more time refining the design layout from the start  particularly planning the placement of cut lines, engraving regions, and bridges more carefully before sending the file to the laser cutter, in order to reduce the number of corrections needed mid-process.
 
-The most valuable takeaway from this exercise was learning how to correctly prepare design files for laser cutting, specifically understanding the difference between how vector and raster elements must be set up in the SVG/PDF, and how small configuration details in Inkscape — such as stroke width and fill settings — can have a direct and significant impact on the physical fabrication outcome.
+The most valuable takeaway from this exercise was learning how to correctly prepare design files for laser cutting, specifically understanding the difference between how vector and raster elements must be set up in the SVG/PDF, and how small configuration details in Inkscape — such as stroke width and fill settings can have a direct and significant impact on the physical fabrication outcome.
 
 
