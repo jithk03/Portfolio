@@ -105,12 +105,16 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 
 
-**Observations:**
-- Engraving quality: _e.g. crisp / slightly burned edges_
-- Cut quality: _e.g. clean edges, slight charring removed by wiping_
-- Bridges: _held up well / required light sanding_
+## Reflection
 
----
+Overall, the exercise produced an acceptable result, though it was not without its challenges along the way. The most difficult aspect of the process was working with Inkscape — particularly understanding how to correctly set up bridges within the fonts, manage the layout within the tight 89 × 51 mm boundary, and ensure all design elements were properly configured for the laser cutter to interpret them correctly.
+
+One significant issue I encountered was with the border of the card. After the initial cut, the border failed to execute properly despite the rest of the card printing as expected. After investigating, I realised the problem was related to the stroke settings in Inkscape — the stroke width needed to be set to **0.001 mm**, and the fill in the stroke and fill panel needed to be set to **100%** for the laser cutter to recognise it as a vector cut line. Once these adjustments were made, the border cut through cleanly as intended. This required several iterations and reworking of the design before achieving the correct result.
+
+If I were to redo this exercise, I would spend more time refining the design layout from the start — particularly planning the placement of cut lines, engraving regions, and bridges more carefully before sending the file to the laser cutter, in order to reduce the number of corrections needed mid-process.
+
+The most valuable takeaway from this exercise was learning how to correctly prepare design files for laser cutting, specifically understanding the difference between how vector and raster elements must be set up in the SVG/PDF, and how small configuration details in Inkscape — such as stroke width and fill settings — can have a direct and significant impact on the physical fabrication outcome.
+
 
 
 
