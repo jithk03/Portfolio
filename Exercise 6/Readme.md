@@ -101,6 +101,3 @@ If I were to redo this exercise, I would spend more time refining the design lay
 The most valuable takeaway from this exercise was learning how to correctly prepare design files for laser cutting, specifically understanding the difference between how vector and raster elements must be set up in the SVG/PDF, and how small configuration details in Inkscape — such as stroke width and fill settings — can have a direct and significant impact on the physical fabrication outcome.
 
 
-
-
-* inf175 · Universität Oldenburg*
