@@ -1,4 +1,4 @@
-# Exercise 5 | CNC Milling — Tea Light Candle Holder
+# Exercise 5 | CNC Milling — Candle Holder
 
 **Digital Design and Fabrication (inf175)**
 Media Informatics and Multimedia Systems
@@ -7,7 +7,7 @@ Media Informatics and Multimedia Systems
 
 ## Overview
 
-In this exercise, the goal was to design a wooden tea light candle holder in Inkscape and prepare it for milling on a CNC machine. The task involved creating a vector outline for the candle holder body and placing a precisely-sized circular pocket at its center to hold the tea light candle. The finished sketch was then imported into CAM software, where toolpaths were generated to cut the outline from a block of hardwood and mill out the candle pocket.
+In this exercise, the goal was to design a wooden candle holder in Inkscape and prepare it for milling on a CNC machine. The task involved creating a vector outline for the candle holder body and placing a precisely-sized circular pocket at its center to hold the tea light candle. The finished sketch was then imported into CAM software, where toolpaths were generated to cut the outline from a block of hardwood and mill out the candle pocket.
 
 
 ## Design Process
@@ -50,9 +50,9 @@ In this exercise, the goal was to design a wooden tea light candle holder in Ink
 
 ## Reflection
 
-For this exercise, I designed my own custom shape rather than using the Christmas tree example. Drawing the outline with the Pencil tool turned out to be trickier than expected — my freehand curves came out jagged and uneven rather than smooth, which meant I had to go back in with the Node tool afterward to clean things up by adjusting Bézier handles and merging/removing nodes. In hindsight, relying more on the smoothing setting from the start, or building the curve from fewer, more deliberate node placements instead of a long freehand drag, would likely have given a cleaner result with less rework.
+For this exercise, I designed my own custom shape. Drawing the outline with the Pencil tool turned out to be trickier than expected — my freehand curves came out jagged and uneven rather than smooth, which meant I had to go back in with the Node tool afterward to clean things up by adjusting Bézier handles and merging nodes. In hindsight, relying more on the smoothing setting from the start, or building the curve from fewer, more deliberate node placements instead of a long freehand drag, would likely have given a cleaner result with less rework.
 
-The other main challenge was centering the candle pocket. Even after using the Align and Distribute tool, the circle ended up slightly off-center relative to my outline. This was likely due to aligning the circle relative to the page rather than to the outline itself (or vice versa), since the two reference points can give different results if the design isn't perfectly centered on the page itself. Next time, I'd double-check which alignment reference is selected before relying on the tool, and possibly verify the result numerically (checking X/Y coordinates) rather than just visually.
+The other main challenge was centering the candle pocket. Even after using the Align and Distribute tool, the circle ended up slightly off-center relative to my outline. This was likely due to aligning the circle relative to the page rather than to the outline itself (or vice versa), since the two reference points can give different results if the design isn't perfectly centered on the page itself.
 
 The final milled piece worked, but came out with a small dimension mismatch versus my original design. This was a minor issue rather than a major failure, but it suggests that something shifted slightly between the Inkscape vector file and the CAM toolpath — possibly during export/import or in how the toolpath software interpreted the path geometry.
 
