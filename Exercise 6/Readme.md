@@ -89,7 +89,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 | Front of Card |
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Final%20output.jpeg" length="400" width="400"> |
-| * Final laser-cut business card (front)* |
+|  Final laser-cut business card |
 
 
 
