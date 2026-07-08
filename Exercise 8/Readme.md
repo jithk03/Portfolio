@@ -6,9 +6,6 @@ For this exercise I ended up making two things. My first attempt was a mobile st
 
 My second (and final) design was a Batman logo keychain with the word "vengeance" cut into the sketch. I wanted something small, practical, and a bit fun to carry around — a keychain felt like a good fit for the size and weight limits, and it gave me a chance to practice sketching more complex, non-geometric shapes instead of just boxes and cylinders.
 
-## First time with parametric CAD
-
-This was my first time using a parametric CAD tool like Onshape. Going in, I didn't have much of an intuition for how sketches, constraints, and extrudes all connect to build up a part, so a lot of the early process was just getting used to how the tool thinks.
 
 ## Intial Design
 
