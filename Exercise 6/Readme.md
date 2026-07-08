@@ -95,7 +95,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 ## Reflection
 
-Overall, the exercise produced an acceptable result, though it was not without its challenges along the way. The most difficult aspect of the process was working with Inkscape — particularly understanding how to correctly set up bridges within the fonts, manage the layout within the tight 89 × 51 mm boundary, and ensure all design elements were properly configured for the laser cutter to interpret them correctly.
+Overall, the exercise produced an acceptable result, though it was not without its challenges along the way. The most difficult aspect of the process was working with Inkscape, particularly understanding how to correctly set and manage the layout within the tight 89 × 51 mm boundary, and ensure all design elements were properly configured for the laser cutter to interpret them correctly.
 
 One of the problems I have had with the card is its borders. Though the border was initially drawn properly and the rest of the card printed successfully, there was some difficulty with the borders. After some investigation, I realized that the issue with the borders was caused by the incorrect settings for the stroke and fill in Inkscape. To make sure that the laser cutter would read the border as a vector cut line, it was necessary to set the width of the stroke to 0.001 mm and fill in the stroke and fill panel to 100%.
 
