@@ -54,8 +54,6 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 ## Measuring Material Thickness
 
-Accurate thickness measurement is critical for setting the correct **focus height** on the laser cutter.
-
 | Measurement Tool | Measured Thickness |
 |---|---|
 | Digital caliper | 3.10 mm |
@@ -75,10 +73,6 @@ Accurate thickness measurement is critical for setting the correct **focus heigh
 https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 
 
-
-
-
-https://github.com/jithk03/Portfolio/blob/main/Exercise%206/Fifth.mp4
 
 *Video  — Laser cutting the business card*
 
