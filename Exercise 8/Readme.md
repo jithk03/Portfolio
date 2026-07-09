@@ -5,6 +5,7 @@
 For this exercise I ended up making two things. My first attempt was a mobile stand, but it got rejected because it didn't fit the printer's build constraints properly and the filament usage went above the 120 g limit once supports were factored in, so I had to scrap that idea and start over.
 
 My second (and final) design was a Batman logo keychain with the word "vengeance" cut into the sketch. I wanted something small, practical, and a bit fun to carry around — a keychain felt like a good fit for the size and weight limits, and it gave me a chance to practice sketching more complex, non-geometric shapes instead of just boxes and cylinders.
+I was not aware that some dimensions had been left unconstrained. I had applied constraints to the main dimensions of the sketch but did not verify that every element was fully defined before proceeding to the extrude. I now understand that a fully constrained sketch — where no geometry is free to move — is essential to producing a reliable and repeatable part, and I will ensure this is checked before leaving the sketch in future work.
 
 
 ## Intial Design
