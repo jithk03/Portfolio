@@ -26,7 +26,6 @@ Overall, turning the idea into an actual model was harder than I expected, mostl
 For slicing, I kept things fairly simple:
 
 - **Orientation:** default, top-down view of the logo (flat on the bed)
-- **Supports:** enabled a small support tree at a 40° threshold angle
 - **Other settings:** left at the lab manual defaults (filament: PLA Rapido, printer: QIDI Q2)
 
 Slicing completed without errors. Final estimated stats:
