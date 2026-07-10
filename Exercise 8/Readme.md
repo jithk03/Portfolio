@@ -40,4 +40,4 @@ Both comfortably within the 120 g / build volume limits.
 <img src="https://github.com/jithk03/Portfolio/blob/64d9735a4d3a087a531e475871d924b70f479047/Exercise%208/IMG_1500.jpg" height="450" width="400">
 <img src="https://github.com/jithk03/Portfolio/blob/64d9735a4d3a087a531e475871d924b70f479047/Exercise%208/IMG_1501.jpg" height="450" width="400">
 
-The final printed result came out clean and accurate, with smooth surface quality and well-defined edges. The dimensions were consistent with the design intent and no major printing artefacts were visible. The extruded portion in particular came out remarkably well, capturing the depth and form exactly as modelled. The finished piece is compact and lightweight, making it perfectly suited for use as a keychain, a practical and functional outcome from the exercise.
+The final printed result came out clean and accurate, with smooth surface quality and well-defined edges.The finished piece is compact and lightweight, making it perfectly suited for use as a keychain, a practical and functional outcome from the exercise.
