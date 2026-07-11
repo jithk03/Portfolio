@@ -23,21 +23,10 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 
 ---
 
-## Material & Settings Configuration
+## Settings Configuration
 
-### Material
-| Property | Value |
-|---|---|
-| Material | MDF Plywood |
-| Nominal thickness | 3 mm  |
-| Dimensions used | 89 × 51 mm |
 
-### Laser Cutter Settings
 
-| Operation | Speed (%) | Power (%) | Passes | Notes |
-|---|---|---|---|---|
-| Raster engrave | 60 | 100 | 1 | Engraving text & graphics |
-| Vector score | 07| 100 | 1 | Decorative lines / folds |
 
 <!-- Photos of the software/settings screen on the laser cutter -->
 | Settings — Software Configuration |
