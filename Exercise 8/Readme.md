@@ -17,7 +17,7 @@ This was my intial Design
 
 To get the Batman logo shape right, I imported a JPEG reference image into the sketch and used it as a guide to trace the outline. I used a mix of the line tool and the spline tool to build the outline — the spline tool especially for the curved parts of the logo, since straight lines obviously wouldn't cut it for something like that.
 
-This part was genuinely difficult. Once the outline was done, I extruded the sketch downward with a depth of 6 mm, and used the text tool to add the word "vengeance" into the sketch as well.
+Once the outline was done, I extruded the sketch downward with a depth of 6 mm, and used the text tool to add the word "vengeance" into the sketch as well.
 
 Overall, turning the idea into an actual model was harder than I expected, mostly because of the curve-matching work. The extrude and text steps themselves were straightforward once the sketch was solid.
 
