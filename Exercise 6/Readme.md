@@ -19,7 +19,7 @@ This project is part of the **Digital Design and Fabrication** course (inf175). 
 ### Inkscape File
 
  <img src="https://github.com/jithk03/Portfolio/blob/7164a201a02c8aab73255100a461e933cad102e4/Exercise%206/Jithu%20.jpeg" length="350" width="350"> 
- Final Inkscape layout (89 × 51 mm, 1 mm margin from top-left)
+ Final Inkscape layout 
 
 ---
 
