@@ -73,7 +73,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Final%20output.jpeg" length="400" width="400"> |
 |  Final laser-cut business card |
-
+The final result of the laser cutting was a perfect business card that was cleanly cut and engraved. It was rewarding to feel the end result after fixing many problems throughout the process, as well as seeing the virtual object turned into a tangible one.
 
 
 ## Reflection
@@ -81,8 +81,6 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 Overall, the exercise produced an acceptable result, though it was not without its challenges along the way.
 
 One of the problems I have had with the card is its borders. Though the border was initially drawn properly and the rest of the card printed successfully, there was some difficulty with the borders. After some investigation, I realized that the issue with the borders was caused by the incorrect settings for the stroke and fill in Inkscape. To make sure that the laser cutter would read the border as a vector cut line, it was necessary to set the width of the stroke to 0.001 mm and fill in the stroke and fill panel to 100%.
-
-If I were to redo this exercise, I would spend more time refining the design layout from the start  particularly planning the placement of cut lines, engraving regions, and bridges more carefully before sending the file to the laser cutter, in order to reduce the number of corrections needed mid-process.
 
 The most valuable takeaway from this exercise was learning how to correctly prepare design files for laser cutting, specifically understanding the difference between how vector and raster elements must be set up in the SVG/PDF, and how small configuration details in Inkscape — such as stroke width and fill settings can have a direct and significant impact on the physical fabrication outcome.
 
