@@ -73,7 +73,7 @@ https://github.com/jithk03/Portfolio/blob/main/Exercise%206/fourth%20video.mp4
 |:---:|
 | <img src="https://github.com/jithk03/Portfolio/blob/0828c450237643b6e3db19b52a81e4f0587ba87c/Exercise%206/Final%20output.jpeg" length="400" width="400"> |
 |  Final laser-cut business card |
-The final result of the laser cutting was a perfect business card that was cleanly cut and engraved. It was rewarding to feel the end result after fixing many problems throughout the process, as well as seeing the virtual object turned into a tangible one.
+The final result of the laser cutting was a perfect business card that was cleanly cut and engraved. It was rewarding to feel the end result after fixing problems throughout the process, as well as seeing the virtual object turned into a tangible one.
 
 
 ## Reflection
