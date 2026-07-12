@@ -16,6 +16,8 @@ Overall, turning the idea into an actual model was harder than I expected. The e
 
 ## Slicing (QIDI Studio)
 
+<img src="https://github.com/jithk03/Portfolio/blob/c91c3058992681dba436d46a7cd7c6c5da4746dd/Exercise%208/qidi.jpeg" height="350" width="350">
+
 For slicing, I kept things fairly simple:
 
 - **Orientation:** default, top-down view of the logo (flat on the bed)
