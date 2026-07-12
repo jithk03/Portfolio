@@ -2,16 +2,9 @@
 
 ## What I modeled and why
 
-For this exercise I ended up making two things. My first attempt was a mobile stand, but it got rejected because it didn't fit the printer's build constraints properly and the filament usage went above the 120 g limit once supports were factored in, so I had to scrap that idea and start over.
-
-My second (and final) design was a Batman logo keychain with the word "vengeance" cut into the sketch. I wanted something small, practical, and a bit fun to carry around — a keychain felt like a good fit for the size and weight limits, and it gave me a chance to practice sketching more complex, non-geometric shapes instead of just boxes and cylinders.
+My design was a Batman logo keychain with the word "vengeance" cut into the sketch. I wanted something small, practical, and a bit fun to carry around — a keychain felt like a good fit for the size and weight limits, and it gave me a chance to practice sketching more complex, non-geometric shapes instead of just boxes and cylinders.
 I was not aware that some dimensions had been left unconstrained. I had applied constraints to the main dimensions of the sketch but did not verify that every element was fully defined before proceeding to the extrude. I now understand that a fully constrained sketch — where no geometry is free to move — is essential to producing a reliable and repeatable part, and I will ensure this is checked before leaving the sketch in future work.
 
-
-## Intial Design
-
-<img src="https://github.com/jithk03/Portfolio/blob/b5a1c6cbb5799c1c8cf98a2de18fa7b26f3ed290/Exercise%208/Intial%20Design.png">
-This was my intial Design
 
 ## Modeling process
 
@@ -19,7 +12,7 @@ To get the Batman logo shape right, I imported a JPEG reference image into the s
 
 Once the outline was done, I extruded the sketch downward with a depth of 6 mm, and used the text tool to add the word "vengeance" into the sketch as well.
 
-Overall, turning the idea into an actual model was harder than I expected, mostly because of the curve-matching work. The extrude and text steps themselves were straightforward once the sketch was solid.
+Overall, turning the idea into an actual model was harder than I expected. The extrude and text steps themselves were straightforward once the sketch was solid.
 
 ## Slicing (QIDI Studio)
 
