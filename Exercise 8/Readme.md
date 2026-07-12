@@ -3,7 +3,7 @@
 ## What I modeled and why
 
 My design was a Batman logo keychain with the word "vengeance" cut into the sketch. I wanted something small, practical, and a bit fun to carry around — a keychain felt like a good fit for the size and weight limits, and it gave me a chance to practice sketching more complex, non-geometric shapes instead of just boxes and cylinders.
-I was not aware that some dimensions had been left unconstrained. I had applied constraints to the main dimensions of the sketch but did not verify that every element was fully defined before proceeding to the extrude. I now understand that a fully constrained sketch — where no geometry is free to move — is essential to producing a reliable and repeatable part, and I will ensure this is checked before leaving the sketch in future work.
+I was not aware that some dimensions had been left unconstrained. I had applied constraints to the main dimensions of the sketch.
 
 
 ## Modeling process
