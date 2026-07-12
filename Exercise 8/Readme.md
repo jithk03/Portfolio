@@ -28,7 +28,6 @@ Slicing completed without errors. Final estimated stats:
 - **Filament used:** 19 g
 - **Print time:** ~19–20 minutes
 
-Both comfortably within the 120 g / build volume limits.
 
 ## Final result
 
