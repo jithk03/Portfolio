@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is part of the **Digital Design and Fabrication** course (inf175). The goal was to design and fabricate a laser-cut business card using **Inkscape** and a laser cutter in the lab.
+My goal was to design and fabricate a laser-cut business card using **Inkscape** and a laser cutter in the lab.
 
 **Requirements:**
 - Standard business card dimensions: **89 × 51 mm**
